@@ -28,7 +28,6 @@ test-all:
 
 jshint:
 	jshint lib/**
-	jshint test/**
 
 loc:
 	@find src/ -name *.js | xargs wc -l
