@@ -1,6 +1,6 @@
 {
   "name": "boom-decorate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Decorates a hapijs reply object with boom methods",
   "preferGlobal": false,
   "main": "./lib/index.js",
